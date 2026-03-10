@@ -1,0 +1,10 @@
+{
+  "shell": "pwsh",
+  "type": "PTE",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/a259bfc60d0f42c7c0e43d9e8229c423c99263e5/.Modules/settings.schema.json",
+  "useCompilerFolder": false,
+  "templateUrl": "https://github.com/businesscentralapps/tmpRwqwnS-PTE@main",
+  "doNotPublishApps": false,
+  "runs-on": "ubuntu-latest",
+  "MicrosoftTelemetryConnectionString": ""
+}
